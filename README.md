@@ -1,4 +1,4 @@
-# **Alex's First Website**
+# **Alex's Website Template**
 
 - Tried making a website for fun
 - Includes button and other functions
